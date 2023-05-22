@@ -1,2 +1,3 @@
 name: Vaishnavi Shirsath
 class: TEIT
+College Name: Dr. Vitthalrao Vikhe Patil College of Engineering
